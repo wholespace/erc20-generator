@@ -2,7 +2,7 @@
 
 ## Try it
 
-[https://vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator)
+[https://rohithreddy.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator)
 
 
 ## Development
