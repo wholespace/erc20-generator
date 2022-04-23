@@ -1,10 +1,5 @@
 # ERC20 Token Generator
 
-## Try it
-
-[https://rohithreddy.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator)
-
-
 ## Development
 
 ### Install dependencies
